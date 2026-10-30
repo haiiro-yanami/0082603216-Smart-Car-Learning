@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.rt.hightec.agent.launcher.launchConfigurationType">
+    <stringAttribute key="ACC_HW" value="DAS JDS TriBoard TC3XX V2.0 TBBI53QN"/>
+    <stringAttribute key="ADDITIONAL_AGENT_OPTIONS" value=""/>
+    <booleanAttribute key="ENABLE_AGENTLOG" value="false"/>
+    <booleanAttribute key="ENABLE_FLASHING" value="true"/>
+    <booleanAttribute key="ENABLE_STOPPING" value="true"/>
+    <stringAttribute key="EXECUTABLE_PATH" value="${project_loc}/Debug/E04_03_imu660ra_demo.elf"/>
+    <stringAttribute key="PPU_ELF_PATH" value=""/>
+    <stringAttribute key="STOP_FUNCTION" value="core0_main"/>
+    <stringAttribute key="SVD" value="D:/ADSupdate/AURIX-Studio-1.10.40/build_system/bundled-artefacts-repo/svd/tc26xbpd/1.2-3/device.svd"/>
+    <stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="E04_03_imu660ra_demo"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/E04_03_imu660ra_demo"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_LOCATION" value="/E04_03_imu660ra_demo/E04_03_imu660ra_demo Debug.launch"/>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_PROJECT_NAME" value="E04_03_imu660ra_demo"/>
+    <booleanAttribute key="org.eclipse.debug.ui.ATTR_SHARED" value="true"/>
+    <stringAttribute key="org.eclipse.tcf.debug.MemoryMap" value="[{&quot;FileName&quot;:&quot;D:/ADS_Work/TC264_Library-master/Example/E04_03_imu660ra_demo/Debug/E04_03_imu660ra_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBBI53QN/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;84ac7a6e-c5ca-42ef-9e47-753b1fda3fa9&quot;},{&quot;FileName&quot;:&quot;D:/ADS_Work/TC264_Library-master/Example/E04_03_imu660ra_demo/Debug/E04_03_imu660ra_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBBI53QN/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;5e812763-2737-47c3-a097-1a329c9cef99&quot;},{&quot;FileName&quot;:&quot;D:/ADS_Work/TC264_Library-master/Example/E04_03_imu660ra_demo/Debug/E04_03_imu660ra_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBBI53QN/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;23c928bb-ae06-4bde-9d5c-5cc4e41cc1ea&quot;},{&quot;FileName&quot;:&quot;D:/ADS_Work/TC264_Library-master/Example/E04_03_imu660ra_demo/Debug/E04_03_imu660ra_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBBI53QN/Core 1: CPU1 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;4a26f76f-8a2f-471e-8ea2-8436bb3e2a3e&quot;},{&quot;FileName&quot;:&quot;D:/ADS_Work/TC264_Library-master/Example/E04_03_imu660ra_demo/Debug/E04_03_imu660ra_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBBI53QN/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;55f03c14-3fc9-4aaf-882c-3552f03b5525&quot;},{&quot;FileName&quot;:&quot;D:/ADS_Work/TC264_Library-master/Example/E04_03_imu660ra_demo/Debug/E04_03_imu660ra_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBBI53QN/Core 1: CPU1 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;155d89c1-6da1-4b9c-a41a-0ea12f1fefc7&quot;}]"/>
+    <stringAttribute key="org.eclipse.tcf.debug.PeerID" value="TCP:127.0.0.1:1534"/>
+    <stringAttribute key="org.eclipse.tcf.debug.ProjectName" value="E04_03_imu660ra_demo"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalAgent" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalServer" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.UseLocalAgent" value="false"/>
+    <stringAttribute key="org.eclipse.tcf.debug.executable_name" value="${project_loc}/Debug/E04_03_imu660ra_demo.elf"/>
+    <stringAttribute key="sessionID" value="7b30c729-aec8-4f29-856b-1d09b8e0e0b3"/>
+</launchConfiguration>

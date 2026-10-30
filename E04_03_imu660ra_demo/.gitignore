@@ -1,0 +1,25 @@
+# ---------- 编译产物 ----------
+Debug/
+Release/
+*.o
+*.obj
+*.elf
+*.hex
+*.src
+*.d
+*.map
+*.mdf
+*.opt
+*.mk
+
+# ---------- 我加的备份文件 ----------
+*.anno
+*.bak
+*.before
+*.fixed.bak
+*.withcomments
+
+# ---------- 系统/编辑器 ----------
+Thumbs.db
+desktop.ini
+.vscode/
